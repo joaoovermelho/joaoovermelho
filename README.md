@@ -60,12 +60,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielFerreira137&show_icons=true&theme=github_dark&count_private=true&hide=stars" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielFerreira137&theme=github-dark-blue" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoovermelho&show_icons=true&theme=github_dark&count_private=true&hide=stars" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoovermelho&theme=github-dark-blue" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerreira137&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoovermelho&layout=compact&theme=github_dark"/>
 </p>
 
 ---
